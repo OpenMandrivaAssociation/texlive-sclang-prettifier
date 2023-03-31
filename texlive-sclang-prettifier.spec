@@ -1,6 +1,6 @@
 Name:		texlive-sclang-prettifier
 Version:	35087
-Release:	1
+Release:	2
 Summary:	Prettyprinting SuperCollider source code
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sclang-prettifier
